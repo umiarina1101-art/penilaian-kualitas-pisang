@@ -2,8 +2,8 @@
 
 ## Anggota Kelompok
 - Umi Arina(23010041)
-- Ica Mirnasari(23010046
-- Hafizd Zikri(230100
+- Ica Mirnasari(23010046)
+- Hafizd Zikri(23010083)
 - Intan Kusuma Nigrum(23010077)
 
 ## File Proposal
