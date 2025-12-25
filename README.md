@@ -1,4 +1,4 @@
-# Mini Proyek Pengolahan Citra Digital
+# Proyek Pengolahan Citra Digital |PENILAIAN KUALITAS BUAH PISANG|
 
 ## Anggota Kelompok
 - Umi Arina(23010041)
